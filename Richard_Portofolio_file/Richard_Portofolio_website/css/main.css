@@ -41,7 +41,7 @@ body{
 .arrow{
     font-size: 25px;
     gap: 5%;
-    color: #fceccc;
+    color: #cbdbfc;
     opacity: 0.4;
     cursor: default;
     rotate: 90deg;
@@ -54,7 +54,7 @@ body{
     display: flex;
     flex-direction: row;
     width: 69.8%;
-    color: #fcb4a4;
+    color: white;
     background-color: #44445c00;
     justify-content: center;
     gap: 4.85%;
@@ -73,14 +73,15 @@ body{
     transition: 0.5s;
     cursor: pointer;
     text-decoration: none;
-    color: #fcb4a4;
+    color: white;
 }.header-pages:hover{
-    color: #fceccc;
+    color: #cbdbfc;
     transition: 1s;
     font-size: 24px;
 }
 
 .header-title{
+    color: white;
     font-size: 24px;
     font-weight: bold;
     width: 20%;
@@ -117,8 +118,9 @@ body{
 }
 
 .main-large-title{
+    color: white;
     font-size: 80px;
-    text-shadow: 0px 3px #FC6C74;
+    text-shadow: 0px 3px #639ffc;
     text-align: center;
 }
 
