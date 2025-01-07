@@ -148,9 +148,8 @@ body{
 }
 
 .study-image{
-    width: 20%;
-    height: fit-content;
     margin: auto 0;
+    transform: scaleX(-1);
 }
 
 .email-image{
