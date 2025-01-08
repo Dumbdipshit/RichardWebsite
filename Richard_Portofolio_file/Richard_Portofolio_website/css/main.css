@@ -152,6 +152,10 @@ body{
     transform: scaleX(-1);
 }
 
+.tv-image{
+    margin: auto 0;
+}
+
 .email-image{
     margin: auto 0;
 }
