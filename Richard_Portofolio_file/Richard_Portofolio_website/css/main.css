@@ -174,8 +174,8 @@ body{
 }
 
 .house-image{
-    height: 42px;
-    width: 64px;
+    height: auto;
+    width: fit-content;
     align-self: center;
     margin-right: 300px;
 }
