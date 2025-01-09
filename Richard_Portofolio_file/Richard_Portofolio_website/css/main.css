@@ -160,6 +160,11 @@ body{
     margin: auto 0;
 }
 
+.list-image{
+    margin: auto 0;
+    transform: scaleX(-1);
+}
+
 .element-text{
     color: #78D0FF;
 }
