@@ -173,6 +173,20 @@ body{
     color: #94F3FF;
 }
 
+.house-image{
+    height: 42px;
+    width: 64px;
+    align-self: center;
+    margin-right: 300px;
+}
+
+.column-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin-top: 180px;
+}
+
 .class-name-text{
     color: #FFA778;
 }
@@ -241,7 +255,6 @@ body{
     background-color: #FFFAFA;
     width: 70%;
     margin: auto;
-    margin-top: 200px;
     padding: 40px;
     display: flex;
     flex-direction: column;
