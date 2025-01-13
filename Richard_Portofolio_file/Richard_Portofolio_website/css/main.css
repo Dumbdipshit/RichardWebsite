@@ -12,12 +12,14 @@ html{
     src: url(../font/static/JetBrainsMono-Regular.ttf);
 }
 
+/* Dit is de default van alles*/
 body{
     background-color: #44445c;
     font-size: 30px;
     color: #fceccc;
     font-family: jetmono;
     text-shadow: 0px 3px #2525367d;
+
 }
 
 .header-column {
